@@ -25,3 +25,11 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+
+## WS
+.idea
+
+
+## Awesome Bot (https://github.com/dkhamsing/awesome_bot)
+ab-results-*
